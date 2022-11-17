@@ -1,2 +1,2 @@
-# ProiectIndividual
+# Individual Project
 MoviePlex
